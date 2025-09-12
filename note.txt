@@ -1,0 +1,10 @@
+modificado o arquivo "app/__init__.py" criado a função create_app;
+
+
+Feito um aumento da versão do pip
+instalado a biblioteca Flask
+criei um arquivo requirements.txt
+
+Made an increase in the pip version
+installed the Flask library
+I created a requirements.txt file
